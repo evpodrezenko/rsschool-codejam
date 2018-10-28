@@ -1,0 +1,27 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "codejam-3",
+  "main": "test/tests.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evpodrezenko/rsschool-codejam.git"
+  },
+  "author": "Ekaterina Podrezenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evpodrezenko/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/evpodrezenko/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {},
+  "keywords": []
+}
