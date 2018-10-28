@@ -1,4 +1,4 @@
-function make(...fns) {
+module.exports = function make(...fns) {
   const arr = fns;
   function func(...x) {
     let ret;
@@ -12,4 +12,4 @@ function make(...fns) {
     return ret;
   }
   return func;
-}
+};

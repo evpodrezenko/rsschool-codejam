@@ -1,4 +1,4 @@
-function recursion(tree) {
+module.exports = function recursion(tree) {
   function getValues(nodes) {
     const result = [];
     const children = [];

@@ -2,7 +2,7 @@
   "name": "rsschool-codejam",
   "version": "1.0.0",
   "description": "codejam-3",
-  "main": "Make.js",
+  "main": "test/tests.js",
   "scripts": {
     "test": "mocha"
   },
