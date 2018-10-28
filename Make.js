@@ -1,7 +1,3 @@
-function summator(a, b) {
-  return a + b;
-}
-
 function make(...fns) {
 
   let arr = fns;

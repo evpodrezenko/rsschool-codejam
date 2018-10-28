@@ -9,7 +9,7 @@ function recursion(tree) {
       for (let key in node) {
         if (key === 'value') {
           values.push(node[key]);
-        } else { //if left, rigth props
+        } else { 
           children.push(node[key]);
         }
       }
